@@ -1,0 +1,7 @@
+Script started on Sun 09 Dec 2018 09:26:15 PM EST
+]0;tuh12955@astro:~/lab10[?1034h[Sun Dec 09 21:26:15 [31mtuh12955@astro[0m:~/lab10 ] $ cc lab10.c
+]0;tuh12955@astro:~/lab10[Sun Dec 09 21:26:25 [31mtuh12955@astro[0m:~/lab10 ] $ ./a.out
+162 Mareli Woods b]0;tuh12955@astro:~/lab10[Sun Dec 09 21:26:30 [31mtuh12955@astro[0m:~/lab10 ] $ exit
+exit
+
+Script done on Sun 09 Dec 2018 09:26:37 PM EST
